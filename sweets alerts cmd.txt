@@ -1,0 +1,6 @@
+sweets alert command use in terminal for laravel
+
+commands:
+
+composer require realrashid/sweet-alert
+php artisan sweetalert:publish 
